@@ -1,0 +1,1 @@
+print("Divya" , 291005, "Sowjanya",  "Lavanya")
